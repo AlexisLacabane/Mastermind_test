@@ -6,9 +6,9 @@ Hello all,
 
 We are Charlotte and Alexis
 
-![GitHub Logo](/Images/AL.jpg)
-
 ![GitHub Logo](/Images/CA.jpg)
+
+![GitHub Logo](/Images/AL.jpg)
 
 
 And together we have worked on the Mastermind !
@@ -55,3 +55,8 @@ IMPROVEMENTS:
 
 We need to add a quit function that allows the player to quit the game before the end.
 We can improve the Beginners level by telling exactly the pegs that are correct or at least have the correct color.
+
+
+(As requested, we used Trello to structure our work as shown in the screenshot below)
+
+![GitHub Logo](/Images/Trello.jpg)
