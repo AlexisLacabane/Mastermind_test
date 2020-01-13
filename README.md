@@ -1,7 +1,5 @@
 # Mastermind_test
 
-
-Code for beginners in gaming
 Hello all, 
 
 We are Charlotte and Alexis
