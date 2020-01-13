@@ -1,9 +1,27 @@
 # Mastermind_test
+
+![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/game.jpg)
+Format: ![Alt Text](url)
+
+img src="images/content_lightning_bolt_big.jpg" width="400"
+
 Code for beginners in gaming
 Hello all, 
-We are Charlotte  and Alexis  
+
+We are Charlotte and Alexis
+
+![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/AL.jpg)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/CA.jpg)
+Format: ![Alt Text](url)
+
+
 
 And together we have worked on the Mastermind !
+
+![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/game.jpg)
+Format: ![Alt Text](url)
 
 OBJECTIVES
 We have created our first software! We were tasked with creating a game that interacts with the user, using the functions and basic python resources we have learned during the week. Our game should be able to take an input from the user and provide an output.
