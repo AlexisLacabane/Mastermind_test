@@ -1,26 +1,24 @@
 # Mastermind_test
 
-![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/game.jpg)
+![GitHub Logo](/Images/game.jpg)
 Format: ![Alt Text](url)
-
-img src="images/content_lightning_bolt_big.jpg" width="400"
 
 Code for beginners in gaming
 Hello all, 
 
 We are Charlotte and Alexis
 
-![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/AL.jpg)
+![GitHub Logo](/Images/AL.jpg)
 Format: ![Alt Text](url)
 
-![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/CA.jpg)
+![GitHub Logo](/Images/CA.jpg)
 Format: ![Alt Text](url)
 
 
 
 And together we have worked on the Mastermind !
 
-![GitHub Logo](/Users/alexislacabane/Documents/GitHub/Mastermind_test/Images/game.jpg)
+![GitHub Logo](/Images/game.jpg)
 Format: ![Alt Text](url)
 
 OBJECTIVES
