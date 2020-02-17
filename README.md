@@ -4,14 +4,14 @@ Hello all,
 
 We are Charlotte and Alexis
 
-![GitHub Logo](/Media/CA.jpg)
+![](/Media/CA.jpg)
 
-![GitHub Logo](/Media/AL.jpg)
+![](/Media/AL.jpg)
 
 
 And together we have worked on the Mastermind !
 
-![Record](/Media/Record.gif)
+![](/Media/game.jpg)
 
 ## OBJECTIVES:
 We have created our first software! We were tasked with creating a game that interacts with the user, using the functions and basic python resources we have learned during the week. Our game should be able to take an input from the user and provide an output.
@@ -36,7 +36,10 @@ For this we have created
 
 The combination is generated randomly by the CPU. 
 
+## YOU RUN IT, YOU GET IT !
 We have designed 2 levels (beginners and expert), Beginners combination won't have the same color twice whereas Expert level can have a color twice or three or four times. 
+
+![](/Media/Record.gif)
 
 ## POSSIBLE IMPROVEMENTS:
 
@@ -46,4 +49,4 @@ We can improve the Beginners level by telling exactly the pegs that are correct 
 
 (As requested, we used Trello to structure our work as shown in the screenshot below)
 
-![GitHub Logo](/Media/Trello.jpg)
+![](/Media/Trello.jpg)
