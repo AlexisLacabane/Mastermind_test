@@ -11,7 +11,7 @@ We are Charlotte and Alexis
 
 And together we have worked on the Mastermind !
 
-![Record](/Media/Record.gif)
+![Record](/Media/Record.mp4)
 
 ## OBJECTIVES:
 We have created our first software! We were tasked with creating a game that interacts with the user, using the functions and basic python resources we have learned during the week. Our game should be able to take an input from the user and provide an output.
